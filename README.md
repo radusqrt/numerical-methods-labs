@@ -15,7 +15,7 @@ Follow this [link](http://jupyter.org/install) to install Jupyter Notebook.
 
 ### Octave Kernel for Jupyter Notebook
 
-You can install the Octave Kernel with the following command `pip install octave_kernel`.
+You can install the Octave Kernel with the following command `pip install octave_kernel --user`.
 
 ## How to use Jupyter Notebook
 
